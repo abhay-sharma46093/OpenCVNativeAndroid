@@ -1,0 +1,4 @@
+# ninja log v5
+0	4387	1669822733	CMakeFiles/opencvnativeandroid.dir/opencv-utils.cpp.o	79d3d0e51c0002be
+6	4785	1669822734	CMakeFiles/opencvnativeandroid.dir/native-lib.cpp.o	bd4b9c00f690e2c9
+4785	8401	1669822737	/home/abhay/AndroidStudioProjects/OpenCVNativeAndroidKotlin/app/build/intermediates/cxx/Debug/w63636v1/obj/x86_64/libopencvnativeandroid.so	1d4696500cea325c

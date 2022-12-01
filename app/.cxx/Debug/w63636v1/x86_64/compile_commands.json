@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/abhay/AndroidStudioProjects/OpenCVNativeAndroidKotlin/app/.cxx/Debug/w63636v1/x86_64",
+  "command": "/home/abhay/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/home/abhay/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/abhay/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dopencvnativeandroid_EXPORTS -isystem /home/abhay/Downloads/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/opencvnativeandroid.dir/opencv-utils.cpp.o -c /home/abhay/AndroidStudioProjects/OpenCVNativeAndroidKotlin/app/src/main/cpp/opencv-utils.cpp",
+  "file": "/home/abhay/AndroidStudioProjects/OpenCVNativeAndroidKotlin/app/src/main/cpp/opencv-utils.cpp"
+},
+{
+  "directory": "/home/abhay/AndroidStudioProjects/OpenCVNativeAndroidKotlin/app/.cxx/Debug/w63636v1/x86_64",
+  "command": "/home/abhay/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/home/abhay/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/abhay/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dopencvnativeandroid_EXPORTS -isystem /home/abhay/Downloads/opencv-4.6.0-android-sdk/OpenCV-android-sdk/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/opencvnativeandroid.dir/native-lib.cpp.o -c /home/abhay/AndroidStudioProjects/OpenCVNativeAndroidKotlin/app/src/main/cpp/native-lib.cpp",
+  "file": "/home/abhay/AndroidStudioProjects/OpenCVNativeAndroidKotlin/app/src/main/cpp/native-lib.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/home/abhay/AndroidStudioProjects/OpenCVNativeAndroidKotlin/app/.cxx/Debug/w63636v1/x86/CMakeFiles/rebuild_cache.dir
+/home/abhay/AndroidStudioProjects/OpenCVNativeAndroidKotlin/app/.cxx/Debug/w63636v1/x86/CMakeFiles/edit_cache.dir
+/home/abhay/AndroidStudioProjects/OpenCVNativeAndroidKotlin/app/.cxx/Debug/w63636v1/x86/CMakeFiles/opencvnativeandroid.dir
